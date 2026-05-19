@@ -87,6 +87,8 @@ class RafaelSordi {
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sordidev.sordidev&"  />
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sordidev/sordidev/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sordidev/sordidev/pacman-output/pacman-contribution-graph.svg">
